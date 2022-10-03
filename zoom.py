@@ -14,11 +14,11 @@ opt.add_experimental_option("prefs", { \
     "profile.default_content_setting_values.notifications": 2 
 })
 
-adm=[21,22,23]
+adm=[21777]
 
 curr_adm=adm.pop()
-m_id=6036198888
-m_pwd="xvdp3A"
+m_id=0    #meeting id
+m_pwd=0    #meeting pwd
 
 delays={'ns':0,'wr':0}  #ns=  not started; wr=waiting room
 

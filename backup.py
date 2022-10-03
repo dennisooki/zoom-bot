@@ -17,8 +17,8 @@ opt.add_experimental_option("prefs", { \
 adm=[21,22,23]
 rej_adm=[]
 curr_adm=adm.pop()
-m_id=6036198888
-m_pwd="xvdp3A"
+m_id=0
+m_pwd=0
 
 delays={'ns':0,'wr':0}  #ns=  not started; wr=waiting room
 
